@@ -6,6 +6,7 @@
         Width="200" Height="200"
         WindowStartupLocation="Manual">
     <Grid>
+        <TextBlock Name="textBlock" Text="This is a flyout window" HorizontalAlignment="Center" VerticalAlignment="Center" />
         <WebBrowser Name="webBrowser" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Source="http://www.msn.com" />
     </Grid>
 </Window>

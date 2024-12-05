@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cpflyout")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b937ba1057aed64ea4e85d191c7aa5a459225ddf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c81a4be29a9c1a1f2fac64c05bbafc93aa27f464")]
 [assembly: System.Reflection.AssemblyProductAttribute("cpflyout")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cpflyout")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
