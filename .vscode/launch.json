@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "cppvsdbg",
+            "request": "launch",
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/cpflyout/bin/Debug/net9.0-windows/cpflyout.exe",
+            "stopAtEntry": true
+        }
+    ]
+}
