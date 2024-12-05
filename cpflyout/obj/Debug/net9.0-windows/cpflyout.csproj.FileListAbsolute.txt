@@ -6,7 +6,6 @@ C:\Repos\cpflyout\cpflyout\bin\Debug\net9.0-windows\cpflyout.pdb
 C:\Repos\cpflyout\cpflyout\obj\Debug\net9.0-windows\MainWindow.g.cs
 C:\Repos\cpflyout\cpflyout\obj\Debug\net9.0-windows\App.g.cs
 C:\Repos\cpflyout\cpflyout\obj\Debug\net9.0-windows\cpflyout_MarkupCompile.cache
-C:\Repos\cpflyout\cpflyout\obj\Debug\net9.0-windows\cpflyout_MarkupCompile.lref
 C:\Repos\cpflyout\cpflyout\obj\Debug\net9.0-windows\MainWindow.baml
 C:\Repos\cpflyout\cpflyout\obj\Debug\net9.0-windows\cpflyout.g.resources
 C:\Repos\cpflyout\cpflyout\obj\Debug\net9.0-windows\cpflyout.GeneratedMSBuildEditorConfig.editorconfig
@@ -20,3 +19,5 @@ C:\Repos\cpflyout\cpflyout\obj\Debug\net9.0-windows\cpflyout.pdb
 C:\Repos\cpflyout\cpflyout\obj\Debug\net9.0-windows\cpflyout.genruntimeconfig.cache
 C:\Repos\cpflyout\cpflyout\obj\Debug\net9.0-windows\ref\cpflyout.dll
 C:\Repos\cpflyout\cpflyout\bin\Debug\net9.0-windows\cpflyout.dll.config
+C:\Repos\cpflyout\cpflyout\obj\Debug\net9.0-windows\flyoutwindow.baml
+C:\Repos\cpflyout\cpflyout\obj\Debug\net9.0-windows\flyoutwindow.g.cs

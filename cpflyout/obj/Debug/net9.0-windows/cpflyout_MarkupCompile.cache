@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP
 C:\Repos\cpflyout\cpflyout\App.xaml
-11407045341
+2-363845836
 
-4709189591
+5494418997
 201668129756
-MainWindow.xaml;
+flyoutwindow.xaml;MainWindow.xaml;
 
 False
 

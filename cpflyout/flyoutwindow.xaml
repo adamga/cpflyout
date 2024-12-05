@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window x:Class="cpflyout.FlyoutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Flyout Window"
+        Width="200" Height="200"
+        WindowStartupLocation="Manual">
+    <Grid>
+        <WebBrowser Name="webBrowser" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Source="http://www.msn.com" />
+    </Grid>
+</Window>
